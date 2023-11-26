@@ -79,7 +79,7 @@ const Home = () => {
 
 	return (
 		<div className="container mt-3 text-center">
-			<h1 className="mt-4">My To Do Lis</h1>
+			<h1 className="mt-4">My To Do List</h1>
 			<h5 className="my-3">What you got to do Today?</h5>
 			<ul className="list-group d-flex align-items-center">
 			<li className="list-group-item d-flex align-items-center py-3">
